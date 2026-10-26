@@ -49,7 +49,7 @@ def main():
     # Then ask for the credits this semester.
 
     while True:
-        print("\n--- THE COST OF COLLEGE ---")
+        print("\n--- THE COST OF COLLEGE ---") 
         print("1  Per semester")
         print("2  Per month")
         print("3  Per class day")
